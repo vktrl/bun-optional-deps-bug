@@ -1,0 +1,8 @@
+{
+  "name": "bun-optional-deps-bug",
+  "module": "index.ts",
+  "type": "module",
+  "optionalDependencies": {
+    "tunnel-ssh": "5.1.1"
+  }
+}
